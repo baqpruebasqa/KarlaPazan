@@ -1,3 +1,10 @@
+1. Ejecutar las migraciones con `php artisan migrate --seed`
+2. Ejecutar el servidor local con `php artisan serve`
+9. Ejecutar `npm install` para instalar las dependencias
+10. Ejecutar `npm run dev` para ejecutar el proyecto
+11. CREDENCIALES DE USUARIO: user: admin contraseña:123
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
