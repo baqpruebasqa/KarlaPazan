@@ -1,3 +1,4 @@
+1. Instalar composer
 1. Ejecutar las migraciones con `php artisan migrate --seed`
 2. Ejecutar el servidor local con `php artisan serve`
 9. Ejecutar `npm install` para instalar las dependencias
